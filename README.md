@@ -1,6 +1,6 @@
 # Piano Virtual 🎹
 
-Este é um projeto de um **Piano Virtual** desenvolvido como parte do **Bootcamp Rihappy-Ri Happy - Front-end do Zero**, organizado pela DIO (Digital Innovation One).
+Este é um projeto de um **Piano Virtual** desenvolvido como parte do Bootcamp Rihappy-Ri Happy - Front-end do Zero, organizado pela DIO (Digital Innovation One).
 
 ## Funcionalidades 🎼
 
